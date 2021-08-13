@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monseters-rolodex.github.io/static/css/main.6f40b3f0.chunk.css",
+    "main.js": "/monseters-rolodex.github.io/static/js/main.ba04ad09.chunk.js",
+    "main.js.map": "/monseters-rolodex.github.io/static/js/main.ba04ad09.chunk.js.map",
+    "runtime-main.js": "/monseters-rolodex.github.io/static/js/runtime-main.c67441c8.js",
+    "runtime-main.js.map": "/monseters-rolodex.github.io/static/js/runtime-main.c67441c8.js.map",
+    "static/js/2.cfd24b44.chunk.js": "/monseters-rolodex.github.io/static/js/2.cfd24b44.chunk.js",
+    "static/js/2.cfd24b44.chunk.js.map": "/monseters-rolodex.github.io/static/js/2.cfd24b44.chunk.js.map",
+    "static/js/3.7c671133.chunk.js": "/monseters-rolodex.github.io/static/js/3.7c671133.chunk.js",
+    "static/js/3.7c671133.chunk.js.map": "/monseters-rolodex.github.io/static/js/3.7c671133.chunk.js.map",
+    "index.html": "/monseters-rolodex.github.io/index.html",
+    "static/css/main.6f40b3f0.chunk.css.map": "/monseters-rolodex.github.io/static/css/main.6f40b3f0.chunk.css.map",
+    "static/js/2.cfd24b44.chunk.js.LICENSE.txt": "/monseters-rolodex.github.io/static/js/2.cfd24b44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67441c8.js",
+    "static/js/2.cfd24b44.chunk.js",
+    "static/css/main.6f40b3f0.chunk.css",
+    "static/js/main.ba04ad09.chunk.js"
+  ]
+}
